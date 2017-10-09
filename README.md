@@ -1,6 +1,8 @@
 # Instaflow
 Super simple way to add Instagram photos to any website
 
+![example](instaflow.png)
+
 # How To Install
 Download the PHP, Javascript and CSS, then include it in your HTML:
 ```html
