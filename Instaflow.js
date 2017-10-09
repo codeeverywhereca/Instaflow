@@ -1,5 +1,5 @@
 /*
- * Instaflow (Oct 9 2017)
+ * Instaflow.js (Oct 9 2017)
  * https://github.com/codeeverywhereca/Instaflow
  * Copyright 2017, http://codeeverywhere.ca
  * Licensed under the MIT license.
