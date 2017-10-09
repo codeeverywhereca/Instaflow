@@ -18,7 +18,7 @@ Instaflow({
 ```
 
 # Demo
-View a live demo here: ...
+View a live demo here: http://codeeverywhere.ca/demos/instaflow/
 
 # Change Log
 1.0
