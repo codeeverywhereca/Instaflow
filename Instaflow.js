@@ -24,7 +24,7 @@
 					}, 750)
 				}		
 			}
-			xhr.open("GET", "Instaflow.php?user=" + args.user, true);
+			xhr.open("GET", "Instaflow.php", true);
 			xhr.send();
 		};
 	
