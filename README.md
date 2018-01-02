@@ -12,10 +12,13 @@ Download the PHP, Javascript and CSS, then include it in your HTML:
 The PHP script acts as a cache so your requests dont overuse Instagrams servers.
 
 # Usage
+```php
+$username = "instagram";
+```
+
 ```js
 Instaflow({
   target  : '.instagram',   // <div> class to insert
-  user    : 'instagram'     // Your instagram username
 }).load();
 ```
 
@@ -23,6 +26,10 @@ Instaflow({
 View a live demo here: http://codeeverywhere.ca/demos/instaflow/
 
 # Change Log
+1.1
+- Moved username server-side
+- Fixed Regex
+
 1.0
 - Initial release
 
