@@ -26,6 +26,9 @@ Instaflow({
 View a live demo here: http://codeeverywhere.ca/demos/instaflow/
 
 # Change Log
+1.1.1
+- Updated obj paths
+
 1.1
 - Moved username server-side
 - Fixed Regex
