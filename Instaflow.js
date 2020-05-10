@@ -1,7 +1,7 @@
 /*
- * Instaflow.js (Dec 30 2017)
+ * Instaflow.js (May 10 2020)
  * https://github.com/codeeverywhereca/Instaflow
- * Copyright 2017, http://codeeverywhere.ca
+ * Copyright 2020, http://codeeverywhere.ca
  * Licensed under the MIT license.
  */
 
@@ -24,7 +24,7 @@
 					}, 750)
 				}		
 			}
-			xhr.open("GET", "Instaflow.php", true);
+			xhr.open("GET", "insta.json", true);
 			xhr.send();
 		};
 	
